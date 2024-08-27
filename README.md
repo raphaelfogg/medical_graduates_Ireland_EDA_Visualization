@@ -30,7 +30,9 @@ What are the future graduation trends in these medical areas?
 ### Datasets
 
 CSO Ireland: 7-year historical record of medical graduates.
+
 HEA: Complementary dataset with detailed demographic information.
+
 HSE: Manual extraction of gender demographics data.
 
 ### Exploratory Data Analysis (EDA) and Visualization

@@ -40,24 +40,26 @@ HSE: Manual extraction of gender demographics data.
 Libraries: Pandas for data manipulation, Matplotlib for visualization.
 
 Methods: df.head, df.drop, df.rename, df.astype, df.isnull, pd.concat
+
 Visualizations: Bar charts, pie charts, line graphs.
 
 ### Statistical Methods
 
 Discrete Distributions: Binomial and Poisson distributions to analyze and predict graduation trends.
+
 Aggregation Functions: df.groupby, .sum, .agg, df.pivot_table
-Results and Analysis
 
-Trends: Analysis of enrollment and graduation trends, gender distribution, and proportions of graduates.
-Forecasting: Future trends prediction using binomial distribution and result visualization.
-Conclusion
 
-This analysis aids educational institutions in planning and resource allocation to meet future healthcare demands effectively.
+This is an ongoing work. The final analysis will aid educational institutions in planning and resource allocation to meet future healthcare demands effectively.
 
 ## References
 
 Pandas documentation
+
 Matplotlib documentation
+
 Central Statistics Office (CSO) Ireland
+
 Higher Education Authority (HEA) website
+
 Health Service Executive (HSE) website

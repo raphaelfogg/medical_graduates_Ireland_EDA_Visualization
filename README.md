@@ -55,11 +55,11 @@ This is an ongoing work. The final analysis will aid educational institutions in
 ## References
 
 
-Pandas Development Team (2023) Pandas Documentation. Available at: https://pandas.pydata.org/docs/ (Accessed: 29 November 2023).
+- Pandas Development Team (2023) Pandas Documentation. Available at: https://pandas.pydata.org/docs/ (Accessed: 29 November 2023).
 
-SciPy (2023) Available at: https://scipy.org (29 November 2023).
+- SciPy (2023) Available at: https://scipy.org (29 November 2023).
 
-Towards Data Science (2023) 'What are the plt and ax in matplotlib exactly?'. Available at: https://towardsdatascience.com/what-are-the-plt-and-ax-in-matplotlib-exactly-d2cf4bf164a9 (10 December 2023).
+- Towards Data Science (2023) 'What are the plt and ax in matplotlib exactly?'. Available at: https://towardsdatascience.com/what-are-the-plt-and-ax-in-matplotlib-exactly-d2cf4bf164a9 (10 December 2023).
 
-Tufte, E.R. (2001) The Visual Display of Quantitative Information. 2nd ed. Cheshire, CT: Graphics Press.
+- Tufte, E.R. (2001) The Visual Display of Quantitative Information. 2nd ed. Cheshire, CT: Graphics Press.
 
